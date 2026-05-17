@@ -1,25 +1,16 @@
 ```
 $ whoami
-zain
-cs student @ king's college london (msci, 4yr)
-incoming treasurer @ kcl cybersoc
-coding tutor
+zain - cs @ kcl (msci) · kcl cybersoc · coding tutor
 heading toward: sre / security engineering / distributed systems
 ```
-
 ```
 $ cat about.txt
-i break things to understand them. sometimes on purpose.
-
-ran a ctf challenge last year that turned on null-byte truncation in an HMAC
-comparison - the kind of bug that makes you feel smart for five minutes and
-then slightly scared. that's the part of this i like.
-
-home lab named after the library of alexandria. server's always up.
-laptop (valhalla) dual-boots ubuntu and (used to) suspend at inconvenient
-times. the speakers don't work. it's fine. i'm fine.
+home lab named after the library of alexandria - because if you're going to
+hoard knowledge, commit to the bit. currently running a node webapp and re::curse,
+occasionally catches fire (metaphorically). valhalla (razer blade 14, dual-boot)
+handles the rest. speakers don't work. it's fine (it's not)
 ```
-```
+```bash
 $ ls -1 projects/ --sort=interest
 neural-net-from-scratch/     # numsharp only. character-building/torture
 LearningAlgorithmsUnity/     # tried dqn, then ppo, then neat. realised ai in c# was better left alone
@@ -28,28 +19,19 @@ predator-prey-sim/           # java. the dinosaurs developed opinions.
 asthma/                      # more java (+ javafx). visualising pollution statistics on a map
 ```
 ```
-$ cat stack.txt
-languages  →  java, python, c#, bash
-infra      →  linux, docker, ssh tunnels into alexandria at 2am. azure/azure cli.
-security   →  binary exploitation, ctf tooling, wireshark, educated guessing
-other      →  git, latex, javafx (against my will)
-```
-```
 $ git log --oneline --no-walk --tags
-8f3a1c2  1st — kcl informatics puzzled
-d4e92b7  2nd — uber hackathon  
+8f3a1c2  1st - kcl informatics puzzled
+d4e92b7  2nd - uber hackathon
 a1f0034  kcl ctfs - 2x top 5
 ```
 ```
-$ cat status.txt
-[~] year 1/4 at kcl
-[~] looking for summer 2027 internships
-[~] alexandria: up
-[~] valhalla: probably playing modded mc
-[~] valhalla speakers: shhhhh...
+$ cat stack.txt
+languages  >  java, python, c#, bash
+infra      >  linux, docker, azure. ssh tunnels into alexandria at 2am.
+security   >  binary exploitation, ctf tooling, wireshark, educated guessing
 ```
 ```
 $ cat contact.txt
-linkedin  →  linkedin.com/in/zainrizwancomputerscience
-email     →  iamzainrizwan@gmail.com
+linkedin  >  linkedin.com/in/zainrizwancomputerscience
+email     >  iamzainrizwan@gmail.com
 ```
