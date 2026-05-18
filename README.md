@@ -36,6 +36,10 @@ linkedin  >  linkedin.com/in/iamzainrizwan
 email     >  iamzainrizwan@gmail.com
 ```
 ```
+$ uptime
+<!-- UPTIME-->
+```
+```
 $ tail -f status.log
 ricing valhalla
 ```
