@@ -24,7 +24,7 @@ uptime_str = f"{years} years, {months} months, {days} days"
 with open("README.md", "r") as f:
     content = f.read()
 
-update = re.sub(r'(\$uptime\n)[^\n]*', rf'\g<1>{uptime_str}', content)
+update = re.sub(r'(\$[^\n]*uptime\n)[^\n]*', rf'\g<1>{uptime_str}', content)
 print(repr(content[:200]))
 
 with open("README.md", "w") as f:
