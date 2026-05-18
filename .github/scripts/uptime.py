@@ -25,6 +25,7 @@ with open("README.md", "r") as f:
     content = f.read()
 
 update = re.sub(r'(\$uptime\n)[^\n]*', rf'\g<1>{uptime_str}', content)
+print(repr(content[:200]))
 
 with open("README.md", "w") as f:
     f.write(update)
