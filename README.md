@@ -37,7 +37,7 @@ email     >  iamzainrizwan@gmail.com
 ```
 ```
 $ uptime
-<!-- UPTIME-->
+0 years, 0 months, 0 days
 ```
 ```
 $ tail -f status.log
