@@ -7,7 +7,7 @@ heading toward: sre / security engineering / distributed systems
 $ cat about.txt
 home lab named after the library of alexandria - because if you're going to
 hoard knowledge, commit to the bit. currently running a node webapp and re::curse,
-occasionally catches fire (metaphorically). valhalla (razer blade 14, dual-boot)
+occasionally catches fire (metaphorically). valhalla (razer blade 14 '23, dual-boot)
 handles the rest. speakers don't work. it's fine (it's not)
 ```
 ```bash
@@ -18,10 +18,10 @@ rf-glider/                   # it flew. not always where intended.
 predator-prey-sim/           # java. the dinosaurs developed opinions.
 asthma/                      # more java (+ javafx). visualising pollution statistics on a map
 ```
-```
-$ git log --oneline --no-walk --tags
+```bash
+$ ps aux | grep "zain"
 8f3a1c2  1st - kcl informatics puzzled
-d4e92b7  2nd - uber hackathon
+d4e92b7  2nd - uber global hackathon
 a1f0034  kcl ctfs - 2x top 5
 ```
 ```
@@ -32,6 +32,10 @@ security   >  binary exploitation, ctf tooling, wireshark, educated guessing
 ```
 ```
 $ cat contact.txt
-linkedin  >  linkedin.com/in/zainrizwancomputerscience
+linkedin  >  linkedin.com/in/iamzainrizwan
 email     >  iamzainrizwan@gmail.com
+```
+```
+$ tail -f status.log
+ricing valhalla
 ```
