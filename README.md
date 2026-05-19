@@ -20,9 +20,9 @@ asthma/                      # more java (+ javafx). visualising pollution stati
 ```
 ```bash
 $ ps aux | grep "zain"
-8f3a1c2  1st - kcl informatics puzzled
-d4e92b7  2nd - uber global hackathon
-a1f0034  kcl ctfs - 2x top 5
+0925  1st - kcl informatics puzzled
+1023  2nd - uber global hackathon
+7326  kcl ctfs - 2x top 5
 ```
 ```
 $ cat stack.txt
