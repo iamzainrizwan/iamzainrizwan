@@ -31,11 +31,6 @@ infra      >  linux, docker, azure. ssh tunnels into alexandria at 2am.
 security   >  binary exploitation, ctf tooling, wireshark, educated guessing
 ```
 ```
-$ cat contact.txt
-linkedin  >  linkedin.com/in/iamzainrizwan
-email     >  iamzainrizwan@gmail.com
-```
-```
 $ uptime
 19 years, 6 months, 4 days
 ```
