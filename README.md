@@ -19,7 +19,7 @@ predator-prey-sim/           # java. the dinosaurs developed opinions.
 asthma/                      # more java (+ javafx). visualising pollution statistics on a map
 ```
 ```bash
-$ ps aux | grep "zain"
+$ pgrep -a zain
 0925  1st - kcl informatics puzzled
 1023  2nd - uber global hackathon
 7326  kcl ctfs - 2x top 5
