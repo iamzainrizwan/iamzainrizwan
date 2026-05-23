@@ -28,7 +28,7 @@ $ ps aux | grep "zain"
 $ cat stack.txt
 languages  >  java, python, c#, bash
 infra      >  linux, docker, azure. ssh tunnels into alexandria at 2am.
-security   >  binary exploitation, ctf tooling, wireshark, educated guessing
+security   >  ctf tooling, wireshark, educated guessing
 ```
 ```
 $ uptime
