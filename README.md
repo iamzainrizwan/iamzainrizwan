@@ -8,7 +8,7 @@ $ cat about.txt
 home lab named after the library of alexandria - because if you're going to
 hoard knowledge, commit to the bit. currently running a node webapp and re::curse,
 occasionally catches fire (metaphorically). valhalla (razer blade 14 '23, dual-boot)
-handles the rest. speakers don't work. it's fine (it's not)
+handles the rest. speakers took a year to fix. worth it
 ```
 ```bash
 $ ls -1 projects/ --sort=interest
