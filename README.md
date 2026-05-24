@@ -12,7 +12,7 @@ handles the rest. speakers took a year to fix. worth it
 ```bash
 $ ls -1 projects/ --sort=interest
 neural-net-from-scratch/     # numsharp only. character-building/torture
-LearningAlgorithmsUnity/     # tried dqn, then ppo, then neat. realised ai in c# was better left alone
+LearningAlgorithmsUnity/     # ppo, dqn, neat. took my NN (^) and expanded/rebulit.
 rf-glider/                   # it flew. not always where intended.
 predator-prey-sim/           # java. the dinosaurs developed opinions.
 asthma/                      # more java (+ javafx). visualising pollution statistics on a map
