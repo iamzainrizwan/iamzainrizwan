@@ -1,7 +1,6 @@
 ```
 $ whoami
 zain - cs @ kcl (y1) · kcl cybersoc treasurer · coding tutor
-heading toward: sre / security engineering / distributed systems
 ```
 ```
 $ cat about.txt
