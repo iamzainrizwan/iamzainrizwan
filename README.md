@@ -31,7 +31,7 @@ security   >  ctf tooling, wireshark, educated guessing
 ```
 ```
 $ uptime
-19 years, 6 months, 19 days
+19 years, 6 months, 20 days
 ```
 ```
 $ tail -f status.log
