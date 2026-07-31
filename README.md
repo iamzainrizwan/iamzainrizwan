@@ -22,6 +22,7 @@ $ pgrep -a zain
 0925  1st - kcl informatics puzzled
 1023  2nd - uber global hackathon
 7326  kcl ctfs - 2x top 5
+0726  50/900 to attend google student AI hackathon
 ```
 ```
 $ cat stack.txt
