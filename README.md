@@ -1,18 +1,27 @@
 ```
 $ whoami
-zain - cs @ kcl (y1) · kcl cybersoc treasurer · coding tutor
+zain - cs @ kcl (y2) · kcl cybersoc treasurer · coding tutor
 ```
 ```
 $ cat about.txt
-home lab named after the library of alexandria - because if you're going to
-hoard knowledge, commit to the bit. currently running a node webapp and re::curse,
-recently joined by 6 docker containers. valhalla (razer blade 14 '23, dual-boot)
-handles the rest. speakers took a year to fix, then the aux broke. worth it..
+alexandria: homelab, named after the library - if you're going to hoard knowledge,
+            commit to the bit. runs 1337, s3ntry + ~6 containers.
+valhalla:   blade 14 '23, dual-boot. speakers took a year to fix, then the aux broke. worth it.
 ```
 ```bash
 $ ls -1 projects/ --sort=interest
+ledgr/      # double-entry personal finance. immutable entries, idempotent posts,
+            # hsbc pdf + revolut parsers that self-check against printed totals
+s3ntry/     # ci/cd + monitoring for alexandria. self-hosted runner, rollback path,
+            # go health daemon (goroutine per service) -> slack/discord alerts
+1337/       # neetcode spaced-repetition tracker. claude and i's - vibecoded, used daily
+
+$ ls -1 archive/ --sort=nostalgia
+sherpa/                      # google student ai hackathon. gemini career dashboard for students
+aam-ds-challenge/            # q1 github scraper + gemini chatbot, q2 hedge fund factor regression
+re-curse/                    # daily interview prep emails via gemini. questions at 11, solutions at 23
+LearningAlgorithmsUnity/     # ppo, dqn, neat. took my NN (v) and expanded/rebuilt.
 neural-net-from-scratch/     # numsharp only. character-building/torture
-LearningAlgorithmsUnity/     # ppo, dqn, neat. took my NN (^) and expanded/rebulit.
 rf-glider/                   # it flew. not always where intended.
 predator-prey-sim/           # java. the dinosaurs developed opinions.
 asthma/                      # more java (+ javafx). visualising pollution statistics on a map
@@ -26,8 +35,10 @@ $ pgrep -a zain
 ```
 ```
 $ cat stack.txt
-languages  >  java, python, c#, bash
-infra      >  linux, docker, azure. ssh tunnels into alexandria at 2am.
+languages  >  python, go, java, c#, bash
+backend    >  fastapi, flask, postgres, sqlite
+infra      >  linux, docker, nginx, systemd, github actions (self-hosted runners), azure.
+              ssh tunnels into alexandria at 2am.
 security   >  ctf tooling, wireshark, educated guessing
 ```
 ```
@@ -36,5 +47,5 @@ $ uptime
 ```
 ```
 $ tail -f status.log
-ricing valhalla
+ledgr: statement parsers -> categoriser
 ```
