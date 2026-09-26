@@ -1,3 +1,5 @@
+check out [modul0](modul0.dev) for more of me! =)
+
 ```
 $ whoami
 zain - cs @ kcl (y2) · kcl cybersoc treasurer
