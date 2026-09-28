@@ -1,4 +1,4 @@
-check out [modul0](modul0.dev) for more of me! =)
+check out [modul0](www.modul0.dev) for more of me! =)
 
 ```
 $ whoami
