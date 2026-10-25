@@ -14,6 +14,18 @@
 <a href="https://github.com/iamzainrizwan/modul0"><b>modul0/</b></a>     the site above. astro + react, amoled + purple
 </pre>
 
+### ~/cybersoc <sub>(treasurer @ kcl cyber security society)</sub>
+
+<pre>
+<a href="https://github.com/iamzainrizwan/welcomectf-2026"><b>welcomectf-2026/</b></a>  beginner ctf infra: ctfd + dockerised challenges on azure.
+                  ran it for 27 players, 146 solves in an hour
+<a href="https://github.com/iamzainrizwan/patch-wednesday"><b>patch-wednesday/</b></a>  blue-team workshop. fix the planted web bugs; tests gate the
+                  patch. a github template so each player gets their own copy
+<a href="https://github.com/iamzainrizwan/kclcybersoc"><b>kclcybersoc/</b></a>      the society site + link-in-bio. static, github pages →
+                  <a href="https://kclcybersoc.org.uk">kclcybersoc.org.uk</a>
+<a href="https://github.com/iamzainrizwan/cybersoc-ig"><b>cybersoc-ig/</b></a>      terminal-style instagram post + story generator for the soc
+</pre>
+
 ### ~/wins
 
 ```
