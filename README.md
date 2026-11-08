@@ -6,12 +6,18 @@
 ### ~/projects
 
 <pre>
-<a href="https://github.com/iamzainrizwan/ledgr"><b>ledgr/</b></a>      double-entry personal finance. immutable entries, idempotent posts,
-            hsbc pdf + revolut parsers that self-check, live demo w/ stats view
-<a href="https://github.com/iamzainrizwan/s3ntry"><b>s3ntry/</b></a>     ci/cd + monitoring for alexandria. self-hosted runner, ci gate, rollback,
-            go health daemon (goroutine per service) → slack/discord + status page
-<a href="https://github.com/iamzainrizwan/1337"><b>1337/</b></a>       neetcode spaced-repetition tracker. coded with claude, used daily
-<a href="https://github.com/iamzainrizwan/modul0"><b>modul0/</b></a>     the site above. astro + react, amoled + purple
+<a href="https://github.com/iamzainrizwan/ledgr"><b>ledgr/</b></a>          double-entry personal finance. immutable entries, idempotent posts,
+                hsbc pdf + revolut parsers that self-check, live demo w/ stats view
+
+<a href="https://github.com/iamzainrizwan/s3ntry"><b>s3ntry/</b></a>         ci/cd + monitoring for alexandria. self-hosted runner, ci gate, rollback,
+                go health daemon (goroutine per service) → slack/discord + status page
+
+<a href="https://github.com/iamzainrizwan/0xb100d"><b>0xb100d/</b></a>        redis-compatible key-value server in c++. resp2, epoll, lru eviction,
+                every number benchmarked against real redis. (wip)
+
+<a href="https://github.com/iamzainrizwan/1337"><b>1337/</b></a>           neetcode spaced-repetition tracker. coded with claude, used daily
+
+<a href="https://github.com/iamzainrizwan/modul0"><b>modul0/</b></a>         the site above. astro + react, amoled + purple
 </pre>
 
 ### ~/cybersoc <sub>(treasurer @ kcl cyber security society)</sub>
@@ -19,39 +25,60 @@
 <pre>
 <a href="https://github.com/iamzainrizwan/welcomectf-2026"><b>welcomectf-2026/</b></a>  beginner ctf infra: ctfd + dockerised challenges on azure.
                   ran it for 27 players, 146 solves in an hour
+
 <a href="https://github.com/iamzainrizwan/patch-wednesday"><b>patch-wednesday/</b></a>  blue-team workshop. fix the planted web bugs; tests gate the
                   patch. a github template so each player gets their own copy
+
 <a href="https://github.com/iamzainrizwan/kclcybersoc"><b>kclcybersoc/</b></a>      the society site + link-in-bio. static, github pages →
                   <a href="https://kclcybersoc.org.uk">kclcybersoc.org.uk</a>
+
 <a href="https://github.com/iamzainrizwan/cybersoc-ig"><b>cybersoc-ig/</b></a>      terminal-style instagram post + story generator for the soc
 </pre>
 
 ### ~/wins
 
-```
+<pre>
 0925  1st - kcl informatics puzzled
 1023  finalist - uber global hackathon (mena)
 7326  kcl ctfs - 2x top 5
 0726  50/~1000 to attend google student ai hackathon
-```
+</pre>
 
 ### ~/stack
 
-```
-languages  python, go, java, c#, bash
-backend    fastapi, flask, sqlalchemy, sqlite
-infra      linux, docker, nginx, systemd, github actions (self-hosted runners), azure.
-           ssh tunnels into alexandria at 2am.
-security   ctf tooling, wireshark, educated guessing
-```
+<pre>
+languages   python, go, java, c#, bash
+backend     fastapi, flask, sqlalchemy, sqlite
+infra       linux, docker, nginx, systemd, github actions (self-hosted runners), azure.
+            ssh tunnels into alexandria at 2am.
+security    ctf tooling, wireshark, educated guessing
+
+# star the tools you love. costs nothing, means a lot to the maintainers
+</pre>
 
 ### ~/machines
 
-```
+<pre>
 alexandria  homelab, named after the library - if you're going to hoard knowledge,
             commit to the bit. runs 1337, s3ntry + ~6 containers.
-valhalla    blade 14 '23, dual-boot. speakers took a year to fix, then the aux broke. worth it.
-```
+valhalla    blade 14 '23, dual-boot. speakers took a year to fix, then the aux broke.
+            worth it.
+</pre>
+
+### ~/tinkering <sub>(built for my own machines, used daily)</sub>
+
+<pre>
+<a href="https://github.com/iamzainrizwan/inkpad"><b>inkpad/</b></a>         mini onenote for tutoring. write on the ipad, it shows up live on the
+                laptop. import slides and annotate them. stdlib python + sse
+
+<a href="https://github.com/iamzainrizwan/mosaic"><b>mosaic/</b></a>         tile live app windows onto one stage and screenshare just that.
+                obs scenes minus obs. gtk + pipewire, gnome/wayland
+
+<a href="https://github.com/iamzainrizwan/cmatrix-saver"><b>cmatrix-saver/</b></a>  screensaver for gnome on wayland, which doesn't have one. cmatrix on
+                every monitor, plus scenes that play themselves (snake, tetris)
+
+<a href="https://github.com/iamzainrizwan/cr1ms0nfin"><b>cr1ms0nfin/</b></a>     oled black + red jellyfin theme. css, plus optional js for a hero banner
+</pre>
 
 <details>
 <summary><b>~/archive</b> <sub>(sorted by nostalgia)</sub></summary>
@@ -69,9 +96,9 @@ asthma/                   more java (+ javafx). visualising pollution statistics
 
 </details>
 
-```
+<pre>
 $ uptime
 19 years, 11 months, 24 days
 $ tail -f status.log
 leetcoding my brain off
-```
+</pre>
