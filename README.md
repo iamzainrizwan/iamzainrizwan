@@ -47,11 +47,10 @@
 ### ~/stack
 
 <pre>
-languages   python, go, java, c#, bash
+languages   python, go, java, c++, c#, bash
 backend     fastapi, flask, sqlalchemy, sqlite
 infra       linux, docker, nginx, systemd, github actions (self-hosted runners), azure.
-            ssh tunnels into alexandria at 2am.
-security    ctf tooling, wireshark, educated guessing
+security    ctf tooling, wireshark, educated guessing, vpns & crypto (wip)
 
 # star the tools you love. costs nothing, means a lot to the maintainers
 </pre>
