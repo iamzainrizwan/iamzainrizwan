@@ -76,6 +76,9 @@ valhalla    blade 14 '23, dual-boot. speakers took a year to fix, then the aux b
 <a href="https://github.com/iamzainrizwan/cmatrix-saver"><b>cmatrix-saver/</b></a>  screensaver for gnome on wayland, which doesn't have one. cmatrix on
                 every monitor, plus scenes that play themselves (snake, tetris)
 
+<a href="https://github.com/iamzainrizwan/redline"><b>redline/</b></a>        tmux-style top bar for gnome. what's next today on the left (gnome
+                calendar, or my planner), alerts only when they matter
+
 <a href="https://github.com/iamzainrizwan/cr1ms0nfin"><b>cr1ms0nfin/</b></a>     oled black + red jellyfin theme. css, plus optional js for a hero banner
 </pre>
 
