@@ -67,6 +67,10 @@ valhalla    blade 14 '23, dual-boot. speakers took a year to fix, then the aux b
 ### ~/tinkering <sub>(built for my own machines, used daily)</sub>
 
 <pre>
+<a href="https://github.com/iamzainrizwan/m3m0"><b>m3m0/</b></a>           native remnote client in rust + egui. vim-style outliner with inline
+                katex, graph, claude flashcards next to mine. reads a db snapshot,
+                writes through a plugin
+
 <a href="https://github.com/iamzainrizwan/inkpad"><b>inkpad/</b></a>         mini onenote for tutoring. write on the ipad, it shows up live on the
                 laptop. import slides and annotate them. stdlib python + sse
 
