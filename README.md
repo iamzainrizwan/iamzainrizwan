@@ -104,7 +104,7 @@ asthma/                   more java (+ javafx). visualising pollution statistics
 
 <pre>
 $ uptime
-20 years, 0 months, 8 days
+20 years, 0 months, 9 days
 $ tail -f status.log
 leetcoding my brain off
 </pre>
